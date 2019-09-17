@@ -1,0 +1,5 @@
+1*=samsung gear
+2*=apple watch
+3*=iphone7 plus
+4*=samsung note 8
+5*=samsung s10
